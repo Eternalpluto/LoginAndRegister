@@ -1,7 +1,7 @@
-###LoginAndRegister
+LoginAndRegister
 JavaWeb实现登录注册功能，有数据库
 
-###需要的知识以及项目环境
+需要的知识以及项目环境
 1.客户端：HTML CSS JS （JQuery）
 2.服务器：JAVA  JSP   Servlet  JDBC  Tomcat
 3.数据库：MySQL
@@ -13,7 +13,7 @@ JavaWeb实现登录注册功能，有数据库
     3.mysql-connector-java-8.0.13.jar
     4.servlet-api.jar
 
-###项目结构
+项目结构
 1.数据库：MySQL实现数据存储
 2.服务器：
   
